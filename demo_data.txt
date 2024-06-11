@@ -1,0 +1,64 @@
+React js :
+ total 4.5 to 5  months 
+ 1 to 8 module 
+
+ 1=> basics fundamentsls
+      html | css | bootstrap
+      basics javascript
+      
+      js stetements 
+        conditionsla 
+        looping
+        
+
+  2=> advanced javascript
+       oops 
+       file handeling
+       js hoisting
+       js variables rules 
+       js strict
+       js module
+       js exceptiona handeling
+       js error
+       js promises 
+       js ajax 
+       js asynchrou & await & sync
+
+        js arrow function 
+        js event handling
+        js form handeing
+        js DOM | vertual DOM 
+        js BOM 
+        js json 
+            api call (fetch)
+
+         fetch(`apiurl`).then(response()=>{
+
+    function(response.data)
+
+)            
+
+
+      ES6.0 
+
+
+     3=> rect js installations 
+             
+     4=> react events + form handeling
+     5=> react js styling 
+           boostrap libraries 
+           MDB libraries 
+           Tailwinds css libraries 
+           MUI libraries       
+             
+     6=> user | admin panel react js routing 
+     7=> react js props | state | events | form handeling events 
+         rendering methods | jsx | fragements 
+
+     8=> api calling => hooks | components | jsx elements | class components 
+          crud perform api 
+          create | read | update | delete 
+
+           Live hosting 
+
+          git managements | commands        
